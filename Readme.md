@@ -1,4 +1,4 @@
-# **Propuesta de Proyecto: Optimización de Consultas de Caminos en un Grafo de Conocimiento**
+# ** Optimización de Consultas de Caminos en un Grafo de Conocimiento**
 
 ## **1. Resumen Ejecutivo**
 
